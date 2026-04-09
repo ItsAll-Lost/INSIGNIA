@@ -24,3 +24,15 @@
 --> You Can Simply Choose Which Direction The Npc Faces In The Editor Using An Enum (Left, Right, Front).
 
 <img width="767" height="549" alt="Screenshot 2026-04-09 012506" src="https://github.com/user-attachments/assets/70059fe2-afb2-4764-8c02-fc048df224b1" />
+
+
+    -------- CURRENT SPRITE LIST:--------
+
+***ENVIROMENT***
+
+<img width="2504" height="2240" alt="Ancient_Tiles1" src="https://github.com/user-attachments/assets/19204be5-2385-4449-96b2-961ded50ebb1" />
+<img width="2504" height="2240" alt="Helsign_Tiles1" src="https://github.com/user-attachments/assets/9da4ea14-64e7-4856-8b71-a813f5dec8ef" />
+<img width="2504" height="2240" alt="Helsign_Tiles2" src="https://github.com/user-attachments/assets/8be06cf7-c424-48f2-b52a-df59ddaebaa1" />
+<img width="2504" height="2240" alt="Auraglades_Tiles1" src="https://github.com/user-attachments/assets/d1e23e43-0a9f-4065-a075-635c6cfff2a2" />
+<img width="2504" height="2240" alt="Aegis_Tiles1" src="https://github.com/user-attachments/assets/519d66e6-2426-4d25-8d19-9d57f172717a" />
+<img width="2504" height="2240" alt="Desolate_Tiles1" src="https://github.com/user-attachments/assets/0cf6b27d-7792-4dd4-930d-538300e772d5" />
