@@ -4,7 +4,7 @@
 
 
     --------THE TRINKET WALK AND TALK:--------
-    ![TrinketWalkandTalk-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/da204d78-f938-4ec5-a31d-887b2450458c)
+  ![TrinketWalkandTalk-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/da204d78-f938-4ec5-a31d-887b2450458c)
 
 
     --------THE FIRST STAGE:--------
