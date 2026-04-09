@@ -11,7 +11,7 @@
     --------THE TRINKET WALK AND TALK:--------
   ![TrinketWalkandTalk-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/da204d78-f938-4ec5-a31d-887b2450458c)
 
-    --------THE TRINKET WALK AND TALK:--------
+    --------THE TRINKET SHATTER AND BREAK:--------
  ![TrinketShatterandBreak-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8ea57cfb-ba46-42bb-a9e0-2baa5bfc042f)
 
 
