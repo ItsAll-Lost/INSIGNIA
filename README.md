@@ -21,6 +21,9 @@
 
 --> Once The Player Enters The Room Exit/Enter Triggers It Moves The Bounds And Does A Black Screen Transiton. (See How It Functions Above).
 
+<img width="646" height="174" alt="Screenshot 2026-04-09 031510" src="https://github.com/user-attachments/assets/bc315ceb-f0a9-4b69-9d70-d3dae92b142d" />
+
+
     --------NPCs:--------
     
 ![TorhuNPC-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f2bd22ce-78ad-426b-bfc3-3eb30182e369)
