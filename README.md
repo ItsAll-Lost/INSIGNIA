@@ -17,9 +17,9 @@
     --------ROOM TRANSITIONS & CAMERA:--------
 ![RoomTransitions-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/243590ad-9a91-43e4-a28a-466cc494de59)
 
---> CameraMovement Script and RoomMove Script  Manage The Camera Positioning And Create Boundaries. They Make Sure The Camera Follow The Player Around, But Stays Inside The "Room." 
+--> CameraMovement Script and RoomMove Script Manage The Camera Positioning And Create Boundaries. They Make Sure The Camera Follows The Player Around, But Stays Inside The "Room." 
 
---> Once The Player Enters The Room Exit/Enter Triggers It Moves The Bounds And Does A Black Screen Transiton.(See How It Functions Above.)
+--> Once The Player Enters The Room Exit/Enter Triggers It Moves The Bounds And Does A Black Screen Transiton. (See How It Functions Above.)
 
     --------NPCs:--------
     
