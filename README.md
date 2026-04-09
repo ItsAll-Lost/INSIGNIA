@@ -28,7 +28,7 @@
 
     -------- CURRENT SPRITE LIST:--------
 
-***ENVIROMENT***
+***///ENVIROMENT///***
 
 <img width="2504" height="2240" alt="Ancient_Tiles1" src="https://github.com/user-attachments/assets/19204be5-2385-4449-96b2-961ded50ebb1" />
 <img width="2504" height="2240" alt="Helsign_Tiles1" src="https://github.com/user-attachments/assets/9da4ea14-64e7-4856-8b71-a813f5dec8ef" />
@@ -38,8 +38,10 @@
 <img width="2504" height="2240" alt="Desolate_Tiles1" src="https://github.com/user-attachments/assets/0cf6b27d-7792-4dd4-930d-538300e772d5" />
 <img width="2504" height="2240" alt="Dungeon_Tiles" src="https://github.com/user-attachments/assets/3ca8a6e5-b6f3-4944-aa65-233fecf9006f" />
 
-***UI***
+***///UI & OBJECTS***
 
 <img width="2504" height="2240" alt="UI_Assets1" src="https://github.com/user-attachments/assets/e455fa90-c658-404f-b0c9-67f19ba9f40e" />
 <img width="2504" height="2240" alt="UI_Assets2" src="https://github.com/user-attachments/assets/a928447e-1e6a-432b-a71b-36b764b49630" />
+<img width="2504" height="2240" alt="Objects1" src="https://github.com/user-attachments/assets/17a9e4b6-5cad-40f1-a5d3-6667f36bf0be" />
+
 
