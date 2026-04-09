@@ -15,3 +15,12 @@
  ![TrinketShatterandBreak-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8ea57cfb-ba46-42bb-a9e0-2baa5bfc042f)
 
 
+    --------NPCs:--------
+    
+![TorhuNPC-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f2bd22ce-78ad-426b-bfc3-3eb30182e369)
+
+<img width="375" height="25" alt="Screenshot 2026-04-09 012311" src="https://github.com/user-attachments/assets/56743a2d-66ba-49fb-a8bd-7241d974338f" />
+
+--> You Can Simply Choose Which Direction The Npc Faces In The Editor Using An Enum (Left, Right, Front).
+
+<img width="767" height="549" alt="Screenshot 2026-04-09 012506" src="https://github.com/user-attachments/assets/70059fe2-afb2-4764-8c02-fc048df224b1" />
