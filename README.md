@@ -19,7 +19,7 @@
 
 --> CameraMovement Script and RoomMove Script Manage The Camera Positioning And Create Boundaries. They Make Sure The Camera Follows The Player Around, But Stays Inside The "Room." 
 
---> Once The Player Enters The Room Exit/Enter Triggers It Moves The Bounds And Does A Black Screen Transiton. (See How It Functions Above.)
+--> Once The Player Enters The Room Exit/Enter Triggers It Moves The Bounds And Does A Black Screen Transiton. (See How It Functions Above).
 
     --------NPCs:--------
     
