@@ -14,6 +14,9 @@
     --------THE TRINKET SHATTER AND BREAK:--------
  ![TrinketShatterandBreak-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8ea57cfb-ba46-42bb-a9e0-2baa5bfc042f)
 
+    --------ROOM TRANSITIONS & CAMERA:--------
+![RoomTransitions-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/243590ad-9a91-43e4-a28a-466cc494de59)
+-->
 
     --------NPCs:--------
     
