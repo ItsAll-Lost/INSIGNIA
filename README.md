@@ -34,7 +34,6 @@
 
 <img width="767" height="549" alt="Screenshot 2026-04-09 012506" src="https://github.com/user-attachments/assets/70059fe2-afb2-4764-8c02-fc048df224b1" />
 
---> You Can Simply Choose Which Direction The Npc Faces In The Editor Using An Enum (Left, Right, Front).
 
 <img width="375" height="25" alt="Screenshot 2026-04-09 012311" src="https://github.com/user-attachments/assets/56743a2d-66ba-49fb-a8bd-7241d974338f" />
 
